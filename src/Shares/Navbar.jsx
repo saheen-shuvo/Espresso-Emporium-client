@@ -27,10 +27,6 @@ const Navbar = () => {
                <ul className='flex items-center gap-5'>
 
              <li title='Home'>  <Link to="/"><Icon icon="solar:home-bold-duotone" className='text-red-200 text-4xl' /></Link></li>
-
-              
-              
-             
                
                <li title='AllCoffee'>
                <Link to="/allCoffee">
